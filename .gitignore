@@ -1,0 +1,15 @@
+*.iml
+.
+idea/
+
+target/
+
+*.jar
+
+.settings/
+bin/
+build/
+!/**/src/**/bin
+!/**/src/**/build
+.classpath
+.project

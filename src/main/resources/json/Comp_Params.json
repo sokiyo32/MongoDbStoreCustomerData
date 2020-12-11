@@ -1,0 +1,24 @@
+ [
+    {
+ "CustomerParameter": {
+    "temperaturerequestedbytheuser": "string",
+    "departuretimeforEV": "string",
+    "stateofchargeforstaticbatteries": "string",
+    "commitmentlevelwithVPP": "string",
+    "maximumdischargeallowedonthebattery": "string"
+  },
+  "firstName": "string",
+  "lastName":"string",
+  "email":"string",
+  "id": {
+    "counter": 0,
+    "date": "2020-12-06T19:30:47.859Z",
+    "machineIdentifier": 0,
+    "processIdentifier": 0,
+    "time": 0,
+    "timeSecond": 0,
+    "timestamp": 0
+  }
+   
+ }
+]
